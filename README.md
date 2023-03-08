@@ -1,7 +1,7 @@
 
 # Living the simple life task
 
-this project is focusing in responsive we designing priciple 
+this project is focusing on responsive web designing priciples. 
 
 
 ## Technologies i used :
